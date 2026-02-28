@@ -5,10 +5,7 @@ from discord.ext import tasks
 from datetime import datetime, time
 import zoneinfo
 
-TOKEN = os.getenv("MTQ3NzE4MDcxNzQ1NTc2OTczMw.GiLpT3.dJW-1ffHWmOxUWZveLZSQ9cKfD7siRea9tCf98")
-CHANNEL_ID = int(os.getenv("1477181896885665805"))
-
-livers = [
+TOKEN = os.getenv(
     {
         "name": "月ノ美兎",
         "image": "https://static.wikia.nocookie.net/virtualyoutuber/images/7/7e/Tsukino_Mito_-_Profile_Image.png"
