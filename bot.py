@@ -22,8 +22,6 @@ livers = [
         "image": "https://static.wikia.nocookie.net/virtualyoutuber/images/2/2d/Kanae_-_Profile_Image.png"
     },
      {"name": "剣持刀也", "image": "https://static.wikia.nocookie.net/virtualyoutuber/images/0/0e/Kenzaki_Touya_-_Profile_Image.png"},
-]
-     {"name": "壱百満天原サロメ", "image": "https://nijisanji.miraheze.org/images/5/5e/Hyakumantenbara_Salome_Profile.png"},
      {"name": "樋口楓", "image": "https://nijisanji.miraheze.org/images/8/8f/Higuchi_Kaede_Profile.png"},
      {"name": "社築", "image": "https://nijisanji.miraheze.org/images/7/7a/Yashiro_Kizuku_Profile.png"},
      {"name": "不破湊", "image": "https://nijisanji.miraheze.org/images/9/9d/Fuwa_Minato_Profile.png"},
